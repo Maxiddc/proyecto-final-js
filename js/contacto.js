@@ -18,7 +18,7 @@ function GuardarUsuario() {
 let boton = document.getElementById('boton')
 boton.onclick = () => {
     GuardarUsuario()
-    swal("Sus datos fueron enviados correctamente", {
+    Swal.fire("Sus datos fueron enviados correctamente", {
         buttons: false,
         timer: 3000,
       });  

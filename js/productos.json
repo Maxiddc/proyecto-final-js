@@ -1,0 +1,85 @@
+[
+    {
+        "id": "mueble-01",
+        "titulo": "Banqueta verde",
+        "imagen": "src=https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367342/banqueta-verde_okli4w.jpg",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "muebles"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "mueble-02",
+        "titulo": "Mesa luz negra",
+        "imagen": "https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367432/mesa-luz-negra_qgngwh.jpg",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "muebles"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "mueble-03",
+        "titulo": "Mesas luz grises",
+        "imagen": "https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367474/mesas-luz-grises_v9xse1.jpg",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "muebles"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "mueble-04",
+        "titulo": "Mesa cocina",
+        "imagen": "https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367534/mesita-cocina_pvvz2n.jpg",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "muebles"
+        },
+        "precio": 12000
+    },
+   
+    {
+        "id": "hilos-01",
+        "titulo": "Espejo 1",
+        "imagen": "https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367619/espejo-0_omafao.jpg",
+        "categoria": {
+            "nombre": "Hilos",
+            "id": "hilos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "hilos-02",
+        "titulo": "Atrapa sueños",
+        "imagen": "https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367711/atrapa-sue%C3%B1os_p0ja0z.jpg",
+        "categoria": {
+            "nombre": "Hilos",
+            "id": "hilos"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "hilos-03",
+        "titulo": "Macetas",
+        "imagen": "https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367757/porta-macetas_bunjij.jpg",
+        "categoria": {
+            "nombre": "Hilos",
+            "id": "hilos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "hilos-04",
+        "titulo": "Espejo 2",
+        "imagen": "https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367820/Espejo-1_zpaz1k.jpg",
+        "categoria": {
+            "nombre": "Hilos",
+            "id": "hilos"
+        },
+        "precio": 15000
+    }
+    
+    
+]

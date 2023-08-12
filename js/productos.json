@@ -2,7 +2,7 @@
     {
         "id": "mueble-01",
         "titulo": "Banqueta verde",
-        "imagen": "src=https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367342/banqueta-verde_okli4w.jpg",
+        "imagen": "https://res.cloudinary.com/dxjrs6x2a/image/upload/v1684367342/banqueta-verde_okli4w.jpg",
         "categoria": {
             "nombre": "Muebles",
             "id": "muebles"
